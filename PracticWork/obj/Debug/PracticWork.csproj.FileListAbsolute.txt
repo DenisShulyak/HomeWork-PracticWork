@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\PracticWork\PracticWork\bin\Debug\PracticWork.exe.config
+C:\Users\User\source\repos\PracticWork\PracticWork\bin\Debug\PracticWork.exe
+C:\Users\User\source\repos\PracticWork\PracticWork\bin\Debug\PracticWork.pdb
+C:\Users\User\source\repos\PracticWork\PracticWork\obj\Debug\PracticWork.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PracticWork\PracticWork\obj\Debug\PracticWork.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PracticWork\PracticWork\obj\Debug\PracticWork.exe
+C:\Users\User\source\repos\PracticWork\PracticWork\obj\Debug\PracticWork.pdb
